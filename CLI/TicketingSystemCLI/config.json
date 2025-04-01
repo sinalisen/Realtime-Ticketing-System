@@ -1,0 +1,17 @@
+{
+  "name": "ticketingsystemcli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+
+  "totalTickets": 5000,
+  "ticketReleaseRate": 50,
+  "customerRetrievalRate": 30,
+  "maxTicketCapacity": 7500
+
+
+}
